@@ -1,0 +1,7 @@
+jellyfish
+jiwer
+nltk
+numpy
+pytorch-pretrained-bert
+scipy
+torch
